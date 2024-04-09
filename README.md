@@ -17,3 +17,7 @@ do not fear tough, still a long journey
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jok1n9&show_icons=true&locale=en" alt="jok1n9" /></p>
 
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jok1n9&show_icons=true&locale=en" alt="jok1n9" /></p>
