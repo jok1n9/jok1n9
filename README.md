@@ -38,7 +38,6 @@ do not fear tough, still a long journey
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a> 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a> 
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" alt="datadog" width="40" height="40"/> </a> 
-  <a href="https://flagsmith.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/flagsmith/color" alt="flagsmith" width="40" height="40"/> </a> 
 </p>
 
 <br>
